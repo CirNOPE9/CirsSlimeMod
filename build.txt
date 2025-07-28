@@ -1,0 +1,3 @@
+displayName = Cir&#39;s Slime Mod
+author = CirNOPE9
+version = 0.1
