@@ -1,0 +1,4 @@
+- slime mount? class
+    - jump height
+    - speed
+    - 
